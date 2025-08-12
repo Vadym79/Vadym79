@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Vadym Kazulkin 🇺🇦, husband and father of 3. I'm [AWS Serverless Hero](https://builder.aws.com/community/@vkazulkin) and Head of Development at ip.labs based in Bonn. I have been involved with the Java ecosystem for over 25 years. My focus and interests currently include the design and implementation of highly scalable and available applications in AWS Cloud with the special passion for Serverless and Generative AI. I'm is also the co-organizer of the Java User Group Bonn meetup and a frequent speaker at various meetups and conferences. 
+I'm Vadym Kazulkin 🇺🇦, husband and father of 3. I'm [AWS Serverless Hero](https://builder.aws.com/community/@vkazulkin) and Head of Development at ip.labs based in Bonn. I have been involved with the Java ecosystem for over 25 years. My focus and interests currently include the design and implementation of highly scalable and available applications in AWS Cloud with the special passion for Serverless and Generative AI and optimization of Java applications (also using SpringBoot, Micronaut and Quarkus frameworks) on AWS Lambda. I'm is also the co-organizer of the Java User Group Bonn meetup and a frequent speaker at various meetups and conferences. 
 
 🤝 Connect with me:
 
@@ -8,5 +8,5 @@ I'm Vadym Kazulkin 🇺🇦, husband and father of 3. I'm [AWS Serverless Hero](
 - [LinkedIn](https://www.linkedin.com/in/vadymkazulkin/)
 - [X](https://x.com/VKazulkin)
 - [Bluesky](https://bsky.app/profile/vkazulkin.bsky.social)
-- [Instagram](www.instagram.com/vadym.kaz)
+- [Instagram](https://instagram.com/vadym.kaz)
 - [Playlist of my talks on Youtube](https://www.youtube.com/watch?v=4t8T-7zQLR0&list=PLE2b2mkXhNUVvcTc2nt0Mu8UnCY5WrdQA)
