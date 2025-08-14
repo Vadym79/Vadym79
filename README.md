@@ -8,6 +8,7 @@ I'm Vadym Kazulkin 🇺🇦, husband and father of 3. I'm [AWS Serverless Hero](
 - [LinkedIn](https://www.linkedin.com/in/vadymkazulkin/)
 - [X](https://x.com/VKazulkin)
 - [Bluesky](https://bsky.app/profile/vkazulkin.bsky.social)
-- [Instagram](https://instagram.com/vadym.kaz)
 - [Playlist of my talks and podcasts on Youtube](https://www.youtube.com/watch?v=4t8T-7zQLR0&list=PLE2b2mkXhNUVvcTc2nt0Mu8UnCY5WrdQA)
 - [Slideshare](https://de.slideshare.net/VadymKazulkin/presentations)
+- [Instagram](https://instagram.com/vadym.kaz)
+- [Facebook](https://www.facebook.com/vadym.ka.3)
