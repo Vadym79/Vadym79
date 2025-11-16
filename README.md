@@ -12,3 +12,18 @@ I'm Vadym Kazulkin 🇺🇦, husband and father of 3. I'm [AWS Serverless Hero](
 - [Slideshare](https://de.slideshare.net/VadymKazulkin/presentations)
 - [Instagram](https://instagram.com/vadym.kaz)
 - [Facebook](https://www.facebook.com/vadym.ka.3)
+
+
+
+## Speaking Activities {.tabset}
+
+### 2016
+| Date | Topic | Conference | Abstract | Presentation Link |
+|------|--------|------------|-----------|--------------------|
+|      |        |            |           |                    |
+
+### 2017
+| Date | Topic | Conference | Abstract | Presentation Link |
+|------|--------|------------|-----------|--------------------|
+|      |        |            |           |                    |
+
